@@ -1,8 +1,8 @@
 # bjoneskugel.github.io
-#H1 About Me
-#H2 Things I care about 
+#H1 About Me and the things I care about -
+- I am from St. Louis and have lived in North Carolina for a year.
 -Talking with family and friends
--pets and plants
+Pets and plants
 -books,computers and art
 #H2 Websites I love 
 - [Book Riot] (https://bookriot.com/) - I think is a great place to find deals on books and read book related articles.
