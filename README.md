@@ -1,7 +1,10 @@
 # bjoneskugel.github.io
-1.	Brittany Jones-Kugel bjoneskugel@my.waketech.edu
-2.	I created this Github when I started classes at Wake Technical College in Raleigh, North Carolina and primarily use it for educational purposes.
-3.	I created this repository with my name. I created this so that I would gain a better understanding of GitHub.
-4.	In order to clone this repository,  I created the repository in the web browser at first, downloaded GitHub for desktops and then opened the specific repository and pressed “clone”. When I downloaded Github, I had to change my security settings in order to be able to use it.
-
+#H1 About Me
+#H2 Things I care about 
+-Talking with family and friends
+-pets and plants
+-books,computers and art
+#H2 Websites I love 
+- [Book Riot] (https://bookriot.com/) - I think is a great place to find deals on books and read book related articles.
+- [Behance] (https://www.behance.net/)- I enjoy using Behance to learn about elements of good and concise design.
 
