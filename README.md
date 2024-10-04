@@ -5,6 +5,6 @@
 Pets and plants
 -books,computers and art
 #H2 Websites I love 
-- [Book Riot] (https://bookriot.com/) - I think is a great place to find deals on books and read book related articles.
-- [Behance] (https://www.behance.net/)- I enjoy using Behance to learn about elements of good and concise design.
+- [Book Riot] (https://bookriot.com/) - I think is a great place to find deals on books and read book related articles.It is also a great place to look for book related gifts.
+- [Behance] (https://www.behance.net/)- I enjoy using Behance to learn about elements of good and concise design. This is a great website for people who are new to design work and want to learn how to harness creativity.
 
