@@ -33,4 +33,3 @@ erDiagram
     PRODUCTS ||--|{ SALES : "contains"
     CUSTOMERS ||--o{ SALES : "purchases"
     PRODUCTS ||--|{ INVENTORY : "tracked by"
-‘’’
